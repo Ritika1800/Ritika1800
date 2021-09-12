@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Ritika Goyal, A first year ambitious student pursuing Electronics and Communication Engineering from IGDTUW. Currently looking for opportunities that will boost my passion for tech.
+I am Ritika Goyal, A Second year ambitious student pursuing Electronics and Communication Engineering from IGDTUW. Currently looking for opportunities that will boost my passion for tech.
 
 <!--
 **Ritika1800/Ritika1800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
