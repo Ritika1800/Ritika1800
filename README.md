@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritika Goyal</h1>
 <h3 align="center">An ECE Sophomore at IGDTUW. I am a highly motivated individual with a passion for learning new skill sets.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritika1800" alt="ritika1800" /></a> </p>
-
 - 🔭 I’m currently working on **learning new skill sets.**
 
 - 🌱 I’m currently learning **HTML, CSS, JS, C++ and Data structures and algorothms.**
