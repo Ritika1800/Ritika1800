@@ -1,30 +1,61 @@
-<h1 align="center">Hi 👋, I'm Ritika Goyal</h1>
-<h3 align="center">An ECE Sophomore at IGDTUW. I am a highly motivated individual with a passion for learning new skill sets.</h3>
+# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Ritika Goyal]
+<a href="https://twitter.com/Ritika_002?t=EUBJhghQ67M1oUaSV41qxQ&s=08"><img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="https://www.linkedin.com/in/ritika-goyal-b51b00203/"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  
+### My Tech Toolbox 🧰 
+
+<p align="left">
+<img src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" alt="C++" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/>
+<img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
+</p>
+
+* My primary coding language: C++
+* Earned 5 star at HackerRank and 2 star at Codchef.
+* Passionate for learning & exploring new Tech.
 
 - 🔭 I’m currently working on **learning new skill sets.**
 
 - 🌱 I’m currently learning **HTML, CSS, JS, C++ and Data structures and algorothms.**
 
-- 👯 I’m looking to collaborate on **different platforms.**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **anything!**
+- 💬 Ask me about **anything!, I'll be happy to help:)**
 
 - 📫 How to reach me **ritikagoyal036@gmail.com**
 
-- ⚡ Fun fact **I think I'm an Interesting person:)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ritika-goyal-b51b00203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ritika-goyal-b51b00203/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_rittikaa_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_rittikaa_/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/ritika_002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/ritika_002" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/ritikagoyal036" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ritikagoyal036" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ritika_1800/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ritika_1800/" height="30" width="40" /></a>
+- ⚡ Fun fact **Coffee over anything!!**
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ritika1800" alt="pragativerma18" /> </p>
+<p align="center">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt=Ritika Goyal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ritika1800&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
+  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p><img align="left" padding-bottom: 10px src="https://github-readme-stats.vercel.app/api/top-langs?username=ritika1800&show_icons=true&theme=gotham" alt="ritika1800" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritika1800&show_icons=true&locale=en&layout=compact" alt="ritika1800" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ritika1800&show_icons=true&theme=gotham" alt="Ritika Goyal | Stats" />
+<img alt="Ritika's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ritika1800&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritika1800&show_icons=true&locale=en" alt="ritika1800" /></p>
+
+## Connect with me:  
+<div align="center">
+<a href="https://github.com/Ritika1800" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/Ritika_002" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+
+<a href=" https://www.linkedin.com/in/ritika-goyal-b51b00203/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://instagram.com/https://www.instagram.com/_rittikaa_/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+
