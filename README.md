@@ -1,4 +1,4 @@
-# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Ritika Goyal]
+# [Hi I am Ritika Goyal]
 <a href="https://twitter.com/Ritika_002?t=EUBJhghQ67M1oUaSV41qxQ&s=08"><img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 <a href="https://www.linkedin.com/in/ritika-goyal-b51b00203/"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   
