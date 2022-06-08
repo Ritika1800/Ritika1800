@@ -19,7 +19,6 @@ She/Her
 
 * My primary coding language: C++
 * Earned 5 star at HackerRank and 2 star at Codchef.
-* Passionate for learning & exploring new Tech.
 
 - 🔭 I’m currently working on **learning new skill sets.**
 
