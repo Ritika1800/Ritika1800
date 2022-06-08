@@ -1,6 +1,9 @@
-# [Hi I am Ritika Goyal]
-<a href="https://twitter.com/Ritika_002?t=EUBJhghQ67M1oUaSV41qxQ&s=08"><img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-<a href="https://www.linkedin.com/in/ritika-goyal-b51b00203/"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+# Hello, geeks! 👋
+**Glad to see you here!** :star_struck: <br> 
+I am Ritika Goyal, A 3rd year undergraduate student at Indira Gandhi Delhi Technical University For Women. I am an enthusiastic Web Developer 👩‍💻 and very passionate for learning and exploring new technologies :rocket: <br>
+
+### 😄 Pronouns
+She/Her
   
 ### My Tech Toolbox 🧰 
 
