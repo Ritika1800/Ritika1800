@@ -64,4 +64,6 @@ She/Her
 <a href="https://instagram.com/https://www.instagram.com/_rittikaa_/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
+<p align="right">(<a href="https://github.com/AartiKushwaha#hi-im-aarti">back to top</a>)</p>
+
 
