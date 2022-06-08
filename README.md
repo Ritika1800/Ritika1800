@@ -42,6 +42,10 @@
 <img alt="Ritika's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ritika1800&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
 
+## Watch my contributions get eaten by a snake 🐍
+<!-- ![snake gif](https://github.com/AartiKushwaha/AartiKushwaha/blob/output/github-contribution-grid-snake.gif)</div> -->
+![snake gif](https://github.com/AartiKushwaha/AartiKushwaha/blob/output/github-contribution-grid-snake.svg)
+
 ## Connect with me:  
 <div align="center">
 <a href="https://github.com/Ritika1800" target="_blank">
