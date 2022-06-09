@@ -30,7 +30,7 @@ She/Her
 
 - 📫 How to reach me **ritikagoyal036@gmail.com**
 
-- ⚡ Fun fact **Coffee over anything!!**
+- ⚡ Fun fact **Coffee over anything!!!**
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ritika1800" alt="pragativerma18" /> </p>
 <p align="center">
