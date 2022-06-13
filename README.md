@@ -1,6 +1,6 @@
 # Hello, geeks! 👋
 **Glad to see you here!** :star_struck: <br> 
-I am Ritika Goyal, A 3rd year undergraduate student at Indira Gandhi Delhi Technical University For Women. I am an enthusiastic Web Developer 👩‍💻 and very passionate for learning and exploring new technologies :rocket: <br>
+I am Ritika Goyal, A 2nd year undergraduate student at Indira Gandhi Delhi Technical University For Women. I am an enthusiastic Web Developer 👩‍💻 and very passionate for learning and exploring new technologies :rocket: <br>
 
 ### 😄 Pronouns
 She/Her
@@ -66,7 +66,7 @@ She/Her
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://instagram.com/https://www.instagram.com/_rittikaa_/" target="_blank">
+<a href="https://www.instagram.com/_rittikaa_/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <p align="right">(<a href="https://github.com/Ritika1800">back to top</a>)</p>
