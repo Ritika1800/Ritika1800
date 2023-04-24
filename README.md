@@ -1,6 +1,5 @@
 # Hello, geeks! 👋
-**Glad to see you here!** :star_struck: <br> 
-I am Ritika Goyal, A 2nd year undergraduate student at Indira Gandhi Delhi Technical University For Women. I am an enthusiastic Web Developer 👩‍💻 and very passionate for learning and exploring new technologies :rocket: <br>
+I am Ritika Goyal, A 3rd year undergraduate student at Indira Gandhi Delhi Technical University For Women. I am an enthusiastic Web Developer 👩‍💻 and very passionate for learning and exploring new technologies :rocket: <br>
 
 ### 😄 Pronouns
 She/Her
