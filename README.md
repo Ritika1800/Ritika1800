@@ -1,5 +1,9 @@
 # Hello, geeks! 👋
-I am Ritika Goyal, A 3rd year undergraduate student at Indira Gandhi Delhi Technical University For Women. I am an enthusiastic Web Developer 👩‍💻 and very passionate for learning and exploring new technologies :rocket: <br>
+I am Ritika Goyal, Currently I am a Software Engineer at JP Morgan Chase & Co., I specialize in creating high-performance, scalable microservices and rich frontend experiences. My expertise lies in React and Java, with a strong focus on Spring Boot Reactive, Kafka, MongoDB, SQL, and Kubernetes.
+
+I excel at designing reactive, event-driven architectures that optimize data pipelines, ensuring low-latency services that meet the demands of large-scale applications. On the frontend, I am passionate about crafting clean, responsive, and intuitive user interfaces using React, AgGrid, and modern UI patterns, enhancing user experiences across platforms.
+
+I am passionate about solving complex problems, optimizing performance and delivering reliable systems at scale. :rocket: <br>
 
 ### 😄 Pronouns
 She/Her
