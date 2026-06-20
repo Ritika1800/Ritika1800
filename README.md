@@ -11,8 +11,6 @@ She/Her
 ### My Tech Toolbox 🧰 
 
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40"/>
   <a style="padding-right: 15px; padding-left: 15px;" href="https://nodejs.org" target="_blank"> <img  style="padding-right: 15px; max-width:48px; height: 48px;" src="https://nodejs.org/static/images/logo.svg"/> </a> &nbsp;
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -30,7 +28,7 @@ She/Her
 
 - 🔭 I’m currently working on **learning new skill sets.**
 
-- 🌱 I’m currently learning **HTML, CSS, JS, C++ and Data structures and algorothms.**
+- 🌱 I’m currently learning  C++ , Data structures and algorothms, Full Stack Development.**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
